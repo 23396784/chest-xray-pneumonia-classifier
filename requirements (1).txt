@@ -1,0 +1,23 @@
+# Chest X-Ray Pneumonia Classifier
+# Python Dependencies
+
+# Roboflow Inference
+inference-sdk>=0.9.0
+roboflow>=1.0.0
+
+# Web Interface
+gradio>=4.0.0
+
+# Image Processing
+Pillow>=9.0.0
+numpy>=1.21.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.28.0
+tqdm>=4.64.0
+
+# Optional: For local development
+# opencv-python>=4.7.0
+# matplotlib>=3.6.0
+# pandas>=1.5.0
